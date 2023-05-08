@@ -1,4 +1,4 @@
-# git-resume
+# pokemons
 
 ## How to run
 
